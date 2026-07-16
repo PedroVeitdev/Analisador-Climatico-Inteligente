@@ -1,4 +1,4 @@
-**Analisador Climático Inteligente**
+# Analisador Climático Inteligente
 
 Uma aplicação console em Python projetada para consulta meteorológica em tempo real de qualquer localidade do mundo. O sistema consome APIs web em cadeia para localizar o texto inserido pelo usuário e retornar dados de temperatura e vento atualizados, acompanhados de alertas dinâmicos e personalizados.
 # Desenvolvimento 
